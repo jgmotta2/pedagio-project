@@ -18,8 +18,4 @@ public class Caminhao implements Veiculo {
     public String getTipo() {
         return "Caminhão";
     }
-
-    public int getNumeroEixos() {
-        return numeroEixos;
-    }
 }
